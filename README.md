@@ -1,5 +1,4 @@
 # -AIML-Hand-Gesture-Control
-virtual mouse
 
  Introduction
 
@@ -29,13 +28,13 @@ Steps to execute
 •	Due to this all the project files from github will be  stored in the directory or folder u want to save.
 •	Then open pycharm go to “Files” then to “Open” and select the directory where u have stored the project folder and then click on the project folder 
 •	Now all the files would be imported to pycharm.
-•	Second way u can access the files in pycharm is by downloading the zip of the repository .go to this link https://github.com/Samrat-Shaw/-AIML-Hand-Gesture-Control and click on code and click on last option “download zip file”
+•	Second way u can access the files in pycharm is by downloading the zip of the repository to do that  click on code and click on last option “download zip file”
 •	Extract the zip file at the desired directory . 
 •	Then open pycharm go to “Files” then to” Open” and select the directory where u have stored the project folder and then click on the project folder
 •	All the project files will be imported.
 
 2.Install the libraries as mentioned earlier in requirements
-3.execute the code by clicking on run symbol  which is situated at the right top corner   
+3.execute the code  by  running  main.py    
 4. there is a feature which  implements the range of distance from where we can perform the actions if your in range it will display OK otherwise a blank screen will be appearing ,so make sure to stand within the range of camera.
 5. Use index finger to move the cursor around and bring both index and thumb finger for clicking action
 6.To terminate code press ‘q’key
