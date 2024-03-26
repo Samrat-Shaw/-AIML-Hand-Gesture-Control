@@ -5,6 +5,7 @@ virtual mouse
 
  This program  essentially creates a virtual mouse control using hand gestures detected from the webcam feed. It tracks the movement of the index finger for cursor control and detects a clicking gesture by bringing the thumb close to the index finger.
 
+
 Libraries Used
 1)OpenCV 
 2)Mediapipe 
